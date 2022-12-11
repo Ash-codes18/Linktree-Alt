@@ -1,11 +1,11 @@
 <div><img src="assets\main.jpg" ></div>
 
 <br><br>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ash-codes18/Linktree-Alt)
-![GitHub stars](https://img.shields.io/github/stars/Ash-codes18/Linktree-Alt)
-![GitHub forks](https://img.shields.io/github/forks/Ash-codes18/Linktree-Alt)
+![GitHub stars](https://img.shields.io/github/stars/Ash-codes18/ Linktree-Alt)
+![GitHub forks](https://img.shields.io/github/forks/Ash-codes18/ Linktree-Alt)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-mehta)
+
 
 <br>
 
@@ -16,7 +16,7 @@ An alternative to LinkTree with premium design and rich features.
 <br>
 <br>
 
-# Table of Contents
+# Table of Content
 - [Demo](#Demo)
 - [Features](#Features)
 - [Installation](#Installation)
@@ -28,10 +28,10 @@ An alternative to LinkTree with premium design and rich features.
 
 # Demo
 
-<img src="images\d1.png">
-<img src="images\d2.png">
-<img src="images\d3.png">
-<img src="images\d4.png">
+<img src="assets\d1.png">
+<img src="assets\d2.png">
+<img src="assets\d3.png">
+<img src="assets\d4.png">
 
 
 <br>
@@ -81,4 +81,4 @@ git clone https://github.com/Ash-codes18/Linktree-Alt.git
 
 # References
 
-Original Project: https://github.com/johnggli/linktree#-how-to-contribute
+Original Project: https://github.com/johnggli/linktree
