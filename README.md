@@ -6,6 +6,11 @@
 ![GitHub forks](https://img.shields.io/github/forks/Ash-codes18/Linktree-Alt)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-mehta/)
 
+<br>
+
+# License
+
+Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Ash-codes18">@Ash-codes18</a>.
 
 <br>
 
@@ -30,8 +35,8 @@ An alternative to LinkTree with premium design and rich features.
 
 <img src="assets\d1.png">
 <img src="assets\d2.png">
-<img src="assets\d3.png" height="1280" width="699">
-<img src="assets\d4.png" height="1314" width="720">
+<img src="assets\d3.png=1280x699" height="1280px" width="699px">
+<img src="assets\d4.png1314" height="1314px" width="720px">
 
 
 <br>
