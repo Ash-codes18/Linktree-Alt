@@ -30,8 +30,8 @@ An alternative to LinkTree with premium design and rich features.
 
 <img src="assets\d1.png">
 <img src="assets\d2.png">
-<img src="assets\d3.png">
-<img src="assets\d4.png">
+<img src="assets\d3.png" height="1280" width="699">
+<img src="assets\d4.png" height="1314" width="720">
 
 
 <br>
