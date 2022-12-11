@@ -2,9 +2,9 @@
 
 <br><br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ash-codes18/Linktree-Alt)
-![GitHub stars](https://img.shields.io/github/stars/Ash-codes18/ Linktree-Alt)
-![GitHub forks](https://img.shields.io/github/forks/Ash-codes18/ Linktree-Alt)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-mehta)
+![GitHub stars](https://img.shields.io/github/stars/Ash-codes18/Linktree-Alt)
+![GitHub forks](https://img.shields.io/github/forks/Ash-codes18/Linktree-Alt)
+![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-mehta)
 
 
 <br>
